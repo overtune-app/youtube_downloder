@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	//rootCmd.Execute()
 	exitOnError(rootCmd.Execute())
 }
 
